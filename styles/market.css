@@ -1,0 +1,18 @@
+.header{
+    height: 50px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    position: fixed;
+    top:0;
+    left: 0;
+    right:0;
+    z-index: 100;
+    background-color: rgb(230, 32, 230);
+    border-bottom-width:20px ;
+    border-bottom-style: solid;
+}
+.left-section{
+    display:flex;
+}
